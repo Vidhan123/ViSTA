@@ -10,6 +10,7 @@ import Home from './Home/Home';
 const useStyles = makeStyles((theme) => ({
   appBar: {
     borderBottom: `1px solid ${theme.palette.divider}`,
+    backgroundColor: 'rgb(91, 50, 226)',
   },
   toolbar: {
     flexWrap: 'wrap',
@@ -19,6 +20,8 @@ const useStyles = makeStyles((theme) => ({
   },
   link: {
     margin: theme.spacing(1, 1.5),
+    color: '#fff',
+    borderColor: '#fff',
   },
 }));
 
