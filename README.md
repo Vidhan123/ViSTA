@@ -1,6 +1,6 @@
-<h1 align="center">VChat</h1>
+<h1 align="center">ViSTA</h1>
 
-<h4 align="center"> Repository for VChat project.</h4>
+<h4 align="center"> Repository for ViSTA project.</h4>
 
 ## Screenshots
 
